@@ -2,9 +2,21 @@
   "addons": [
     "https://v3-cinemeta.strem.io/manifest.json",
     "https://opensubtitles-v3.strem.io/manifest.json",
+    "https://torrentio.strem.fun/manifest.json",
+    "https://thepiratebay-plus.strem.fun/manifest.json",
+    "https://einthusan.asaddon.com/manifest.json",
+    "https://indiastreams.rdata.in/manifest.json",
+    "https://bharat-binge.semi-column.workers.dev/manifest.json",
+    "https://einthusan.asaddon.com/telugu/manifest.json",
+    "https://einthusan.asaddon.com/tamil/manifest.json",
+    "https://einthusan.asaddon.com/malayalam/manifest.json",
+    "https://watchio-addon.pages.dev/manifest.json",
+    "https://pengu.uk/%7B%22source_111477%22%3A%22on%22%2C%22source_4khdhub%22%3A%22on%22%2C%22source_cinefreak%22%3A%22on%22%2C%22source_aniwaves%22%3A%22on%22%2C%22source_moviebox%22%3A%22on%22%2C%22source_mkvbase%22%3A%22on%22%2C%22source_moviesdrives%22%3A%22on%22%2C%22source_vaplayer%22%3A%22on%22%2C%22source_videasy%22%3A%22on%22%2C%22source_zxcstream%22%3A%22on%22%2C%22source_animesuge%22%3A%22on%22%2C%22source_aether%22%3A%22on%22%2C%22source_vidlink%22%3A%22on%22%2C%22source_hdghartv%22%3A%22on%22%2C%22res_2160%22%3A%22on%22%2C%22res_1080%22%3A%22on%22%2C%22res_720%22%3A%22on%22%2C%22res_480%22%3A%22on%22%2C%22res_360%22%3A%22on%22%7D/manifest.json",
+    "https://fun.ecin.workers.dev/manifest.json",
     "https://7a82163c306e-stremio-netflix-catalog-addon.baby-beamup.club/manifest.json",
     "https://caching.stremio.net/publicdomainmovies.now.sh/manifest.json",
     "https://watchhub.strem.io/manifest.json",
-    "https://v3-channels.strem.io/manifest.json"
+    "https://v3-channels.strem.io/manifest.json",
+
   ]
 }
