@@ -1,0 +1,10 @@
+{
+  "addons": [
+    "https://v3-cinemeta.strem.io/manifest.json",
+    "https://opensubtitles-v3.strem.io/manifest.json",
+    "https://7a82163c306e-stremio-netflix-catalog-addon.baby-beamup.club/manifest.json",
+    "https://caching.stremio.net/publicdomainmovies.now.sh/manifest.json",
+    "https://watchhub.strem.io/manifest.json",
+    "https://v3-channels.strem.io/manifest.json"
+  ]
+}
